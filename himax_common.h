@@ -62,7 +62,7 @@
 #define HX_TP_PROC_SELF_TEST
 #define HX_TP_PROC_RESET
 #define HX_TP_PROC_SENSE_ON_OFF
-#define HX_TP_PROC_2T2R
+//#define HX_TP_PROC_2T2R
 
 #ifdef HX_TP_PROC_SELF_TEST
 //#define HX_TP_SELF_TEST_DRIVER //if enable, selftest works in driver
